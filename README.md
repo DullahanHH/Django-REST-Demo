@@ -1,1 +1,2 @@
-# Django-REST-Demo
+# Django REST Framework Study Note
+
