@@ -107,7 +107,7 @@ ViewSets & Routers (Tut-6):
   - The DefaultRouter class contain the API root view.
 
 
-Summary:
+Significant points:
 - Visualized api
 - Reusable code, clean code
 - Able to switch form (.json, .api, etc)
